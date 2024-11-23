@@ -8,8 +8,8 @@
         "birthDate": "2000-11-25T05:00:00.000Z",
         "phone": "897654123",
         "type": "citizen",
-        "email": "piero@gmail.com",
-        "password": "123456",
+        "email": "p@gmail.com",
+        "password": "123",
         "membership": "premium",
         "apiId": "v1 ",
         "lists": {
@@ -25,8 +25,8 @@
         "birthDate": "2000-11-25T05:00:00.000Z",
         "phone": "4345",
         "type": "creator",
-        "email": "jorge@gmail.com",
-        "password": "654321",
+        "email": "j@gmail.com",
+        "password": "321",
         "membership": "platinum",
         "apiId": "v1 ",
         "lists": {
@@ -83,30 +83,6 @@
       "feeling": "curioso",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/a1ffe4227c2a8030947382afaa667ef748c06c12f4a32b5c188e9afd7a470b12.jpg",
       "creator": "Focus Films"
-    },
-    {
-      "contentId": "131",
-      "creatorId": "31",
-      "type": "movie",
-      "title": "The Garden of Serenity",
-      "description": "Un retiro espiritual en un jardín donde las personas encuentran paz y claridad mental a través de la jardinería consciente.",
-      "category": "documentary",
-      "objective": "relajarme",
-      "feeling": "estresado",
-      "image": "https://m.media-amazon.com/images/I/51cBcwYsOVL._SX425_.jpg",
-      "creator": "Zen Gardens Studios"
-    },
-    {
-      "contentId": "135",
-      "creatorId": "35",
-      "type": "movie",
-      "title": "Rising Above",
-      "description": "La historia de una persona que, a través del yoga y la meditación, encuentra la fortaleza interior para superar la adversidad.",
-      "category": "drama",
-      "objective": "inspirarme",
-      "feeling": "resiliente",
-      "image": "https://m.media-amazon.com/images/I/81Remqx33HL._AC_UF1000,1000_QL80_.jpg",
-      "creator": "Inner Strength Films"
     }
   ],
   "content-recent": [
@@ -157,55 +133,9 @@
       "feeling": "esperanzado",
       "image": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg",
       "creator": "Gaumont Film Company"
-    },
-    {
-      "contentId": "121",
-      "creatorId": "21",
-      "type": "movie",
-      "title": "Inner Peace",
-      "description": "Un maestro de meditación guía a un grupo de personas en la búsqueda de la serenidad interior, enfrentando sus propios miedos y ansiedades.",
-      "category": "drama",
-      "objective": "relajarme",
-      "feeling": "estresado",
-      "image": "https://cdns-images.dzcdn.net/images/cover/3ee346bd5937fb542af1a6564334f47d/1900x1900-000000-80-0-0.jpg",
-      "creator": "Zen Studios"
-    },
-    {
-      "contentId": "122",
-      "creatorId": "22",
-      "type": "movie",
-      "title": "Harmony Within",
-      "description": "Una película que explora cómo el equilibrio entre cuerpo y mente puede ayudar a superar las dificultades de la vida diaria.",
-      "category": "drama",
-      "objective": "inspirarme",
-      "feeling": "motivado",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDM5MmIzYmUtYmRhZC00M2I3LWJlOGItMjU2M2EyYzI2NzIzXkEyXkFqcGc@._V1_.jpg",
-      "creator": "Mindful Productions"
-    },
-    {
-      "contentId": "123",
-      "creatorId": "23",
-      "type": "movie",
-      "title": "The Journey to Calm",
-      "description": "Un hombre emprende un viaje por la naturaleza en busca de paz interior y conexión consigo mismo.",
-      "category": "aventura",
-      "objective": "desconectar",
-      "feeling": "cansado",
-      "image": "https://images.justwatch.com/poster/9641786/s718/el-viaje-de-jane.jpg",
-      "creator": "Serenity Films"
     }
   ],
   "forums": [
-    {
-      "postId": "263",
-      "userId": "1",
-      "contentId": "45",
-      "title": "Rising Above",
-      "commentBy": "Raúl Ronaldo",
-      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-      "image": "https://m.media-amazon.com/images/I/81Remqx33HL._AC_UF1000,1000_QL80_.jpg",
-      "score": "5"
-    },
     {
       "postId": "852",
       "userId": "1",
@@ -251,7 +181,7 @@
         "eventId": "2",
         "contentId": "97",
         "title": "Positive good action across.",
-        "description": "Reflect important computer simple conference green successful. Resource key important stage financial employee.",
+        "description": "Reflect important computer simple conference green successful.",
         "date": "2024-11-10",
         "address": "921 Patricia Brook Apt. 883\nAshleyport, AL 00847",
         "creatorId": "5"
@@ -273,24 +203,6 @@
         "date": "2024-10-04",
         "address": "0839 Samuel Corner Suite 496\nWest Tylermouth, NV 04398",
         "creatorId": "9"
-      },
-      {
-        "eventId": "5",
-        "contentId": "77",
-        "title": "Outside knowledge help each girl.",
-        "description": "Wide year week identify. Hear such likely girl choice ability on television. Necessary seem oil myself.",
-        "date": "2024-10-02",
-        "address": "Unit 1427 Box 6236\nDPO AE 08603",
-        "creatorId": "1"
-      },
-      {
-        "eventId": "6",
-        "contentId": "63",
-        "title": "Address smile sense.",
-        "description": "Election poor human bill season pick responsibility daughter. Receive change hit eat summer. Kind catch apply able television rise.",
-        "date": "2024-10-08",
-        "address": "51701 Andrew Grove Suite 551\nWillieshire, FL 64931",
-        "creatorId": "3"
       },
       {
         "eventId": "7",
@@ -354,42 +266,6 @@
         "date": "2024-10-02",
         "address": "2299 Anderson Squares\nNew Kellyberg, HI 09751",
         "creatorId": "1"
-      },
-      {
-        "eventId": "14",
-        "contentId": "79",
-        "title": "Specific trouble leave put.",
-        "description": "Heart week lay word money ahead. Effort see international team. Eye maintain I speech hour thus as. Guess approach develop newspaper.",
-        "date": "2024-10-13",
-        "address": "74710 Taylor Ferry\nSouth Samantha, NM 69494",
-        "creatorId": "2"
-      },
-      {
-        "eventId": "15",
-        "contentId": "2",
-        "title": "Forward always artist money.",
-        "description": "Price form yourself her language when. Prove building loss at. Total read her loss plan although.",
-        "date": "2024-10-08",
-        "address": "6777 Stevens Point Apt. 972\nBobbyport, NY 59121",
-        "creatorId": "3"
-      },
-      {
-        "eventId": "65",
-        "contentId": "45",
-        "title": "Event for Call me movie",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-        "date": "2024-05-05",
-        "address": "av.primavera 123",
-        "creatorId": "2"
-      },
-      {
-        "eventId": "456",
-        "contentId": "98",
-        "title": "Event for Impossile movie",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-        "date": "2024-02-01",
-        "address": "av.primavera 321",
-        "creatorId": "654"
       }
     ]
   }
