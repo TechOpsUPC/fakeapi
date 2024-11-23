@@ -36,244 +36,207 @@
       }
     ],
     "content": [
-      {
-        "contentId": "45",
-        "creatorId": "2",
-        "type": "movie",
-        "title": "Call me",
-        "description": "Comedia optimista sobre un grupo de amigos que se embarcan en un viaje de autodescubrimiento durante un retiro de verano",
-        "category": "comedia",
-        "objective": "desconectar",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "98",
-        "creatorId": "654",
-        "type": "documental",
-        "title": "Impossible",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-        "category": "drama",
-        "objective": "inspirarme",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "101",
-        "creatorId": "5",
-        "type": "movie",
-        "title": "The Last Laughter",
-        "description": "Un comediante en tiempos difíciles busca redescubrir el sentido del humor en los pequeños momentos de la vida.",
-        "category": "comedia",
-        "objective": "relajarme",
-        "feeling": "relajado"
-      },
-      {
-        "contentId": "102",
-        "creatorId": "3",
-        "type": "series",
-        "title": "Wings of Imagination",
-        "description": "Una serie fantástica que te lleva a un mundo lleno de magia, criaturas increíbles y aventuras inimaginables.",
-        "category": "fantasia",
-        "objective": "inspirarme",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "103",
-        "creatorId": "8",
-        "type": "documentary",
-        "title": "Mind Over Matter",
-        "description": "Un documental que explora el poder de la mente para superar el estrés y la ansiedad en el día a día.",
-        "category": "drama",
-        "objective": "aprender",
-        "feeling": "ansioso"
-      },
-      {
-        "contentId": "104",
-        "creatorId": "7",
-        "type": "movie",
-        "title": "The Quiet Journey",
-        "description": "Un viaje introspectivo de una joven que se embarca en una caminata solitaria para desconectar del mundo.",
-        "category": "aventura",
-        "objective": "desconectar",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "105",
-        "creatorId": "1",
-        "type": "series",
-        "title": "Laugh Out Loud",
-        "description": "Una divertida serie de sketches cómicos que aborda situaciones cotidianas con un toque de humor absurdo.",
-        "category": "comedia",
-        "objective": "desconectar",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "106",
-        "creatorId": "9",
-        "type": "documentary",
-        "title": "The Science of Relaxation",
-        "description": "Un análisis profundo de cómo la risa y el entretenimiento pueden mejorar tu salud mental.",
-        "category": "comedy",
-        "objective": "aprender",
-        "feeling": "relajado"
-      },
-      {
-        "contentId": "107",
-        "creatorId": "4",
-        "type": "movie",
-        "title": "Into the Wild Sky",
-        "description": "Un piloto retirado se embarca en la aventura de su vida al descubrir un mundo oculto más allá de las nubes.",
-        "category": "fantasia",
-        "objective": "inspirarme",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "108",
-        "creatorId": "2",
-        "type": "movie",
-        "title": "Echoes of Tomorrow",
-        "description": "Una profunda historia sobre la lucha de un hombre con su pasado y cómo el amor puede cambiar el destino.",
-        "category": "drama",
-        "objective": "relajarme",
-        "feeling": "triste"
-      },
-      {
-        "contentId": "109",
-        "creatorId": "6",
-        "type": "documentary",
-        "title": "The Journey of Solitude",
-        "description": "Explora cómo las personas encuentran paz y conexión en la naturaleza, desconectándose de la rutina.",
-        "category": "aventura",
-        "objective": "desconectar",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "110",
-        "creatorId": "10",
-        "type": "series",
-        "title": "Rise of Dreams",
-        "description": "Una serie llena de momentos inspiradores donde los protagonistas enfrentan desafíos y encuentran su propósito.",
-        "category": "drama",
-        "objective": "inspirarme",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "111",
-        "creatorId": "11",
-        "type": "movie",
-        "title": "Chasing the Horizon",
-        "description": "Una historia de superación personal y descubrimiento en la inmensidad de un desierto misterioso.",
-        "category": "aventura",
-        "objective": "relajarme",
-        "feeling": "relajado"
-      },
-      {
-        "contentId": "112",
-        "creatorId": "12",
-        "type": "documentary",
-        "title": "A World of Fantasy",
-        "description": "Un fascinante viaje por las culturas que han dado origen a los mitos y leyendas más conocidos.",
-        "category": "fantasia",
-        "objective": "aprender",
-        "feeling": "ansioso"
-      },
-      {
-        "contentId": "113",
-        "creatorId": "13",
-        "type": "series",
-        "title": "The Power of Comedy",
-        "description": "Una serie que explora cómo el humor ha sido utilizado a lo largo de la historia para enfrentar adversidades.",
-        "category": "comedy",
-        "objective": "inspirarme",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "114",
-        "creatorId": "14",
-        "type": "movie",
-        "title": "A Quiet Escape",
-        "description": "Una pareja decide dejar atrás la vida urbana para reencontrarse con la naturaleza en una pequeña cabaña.",
-        "category": "aventura",
-        "objective": "desconectar",
-        "feeling": "relajado"
-      },
-      {
-        "contentId": "115",
-        "creatorId": "15",
-        "type": "documentary",
-        "title": "Finding Serenity",
-        "description": "Una reflexión sobre las diferentes formas en que las personas alrededor del mundo buscan paz interior.",
-        "category": "drama",
-        "objective": "relajarme",
-        "feeling": "ansioso"
-      },
-      {
-        "contentId": "116",
-        "creatorId": "16",
-        "type": "movie",
-        "title": "The Road Less Traveled",
-        "description": "Una historia emocionante de autodescubrimiento y aventura en los paisajes más remotos del planeta.",
-        "category": "aventura",
-        "objective": "inspirarme",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "117",
-        "creatorId": "17",
-        "type": "movie",
-        "title": "Breaking the Chains",
-        "description": "Una emocionante travesía en la que un grupo de amigos busca escapar de la rutina y reencontrarse con su libertad.",
-        "category": "fantasia",
-        "objective": "desconectar",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "118",
-        "creatorId": "18",
-        "type": "series",
-        "title": "Laughter's Medicine",
-        "description": "Una serie de historias cortas que muestran cómo el humor puede sanar incluso en los momentos más difíciles.",
-        "category": "comedy",
-        "objective": "relajarme",
-        "feeling": "motivado"
-      },
-      {
-        "contentId": "119",
-        "creatorId": "19",
-        "type": "documentary",
-        "title": "Through the Looking Glass",
-        "description": "Un documental que explora cómo las películas y series de fantasía influyen en la cultura moderna.",
-        "category": "fantasia",
-        "objective": "aprender",
-        "feeling": "cansado"
-      },
-      {
-        "contentId": "120",
-        "creatorId": "20",
-        "type": "movie",
-        "title": "Beyond the Stars",
-        "description": "Un astronauta retirado revive los momentos más significativos de su carrera en una misión espacial que cambiará la historia.",
-        "category": "drama",
-        "objective": "inspirarme",
-        "feeling": "relajado"
-      }
-  
-    ],
-    "forums": [
-      {
-        "postId": "263",
-        "userId": "1",
-        "contentId": "45",
-        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-        "score": "5"
-      },
-      {
-        "postId": "852",
-        "userId": "1",
-        "contentId": "45",
-        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
-        "score": "3"
-      }
-    ],
+    {
+      "contentId": "98",
+      "creatorId": "654",
+      "type": "movie",
+      "title": "The Impossible",
+      "description": "Narra la historia de un matrimonio y sus tres hijos.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_.jpg",
+      "creator": "Telecinco Cinema"
+    },
+    {
+      "contentId": "128",
+      "creatorId": "28",
+      "type": "movie",
+      "title": "The Sunshine Mind",
+      "description": "Esta película sigue las historias de personas que descubren el poder del pensamiento positivo para transformar sus vidas.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661865304l/60693290.jpg",
+      "creator": "Positive Vibes Productions"
+    },
+    {
+      "contentId": "129",
+      "creatorId": "29",
+      "type": "movie",
+      "title": "The Quiet Path",
+      "description": "Explora la vida de una mujer que, a través de la práctica del silencio y la meditación, logra reconectarse consigo misma.",
+      "category": "drama",
+      "objective": "desconectar",
+      "feeling": "abrumado",
+      "image": "https://m.media-amazon.com/images/I/71EIhJlU1YL._AC_UF894,1000_QL80_.jpg",
+      "creator": "Tranquil Films"
+    },
+    {
+      "contentId": "130",
+      "creatorId": "30",
+      "type": "movie",
+      "title": "Flow State",
+      "description": "Un documental que investiga cómo las personas alcanzan el estado de flujo en actividades como el arte, el deporte y la música.",
+      "category": "documentary",
+      "objective": "aprender",
+      "feeling": "curioso",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/a1ffe4227c2a8030947382afaa667ef748c06c12f4a32b5c188e9afd7a470b12.jpg",
+      "creator": "Focus Films"
+    },
+    {
+      "contentId": "131",
+      "creatorId": "31",
+      "type": "movie",
+      "title": "The Garden of Serenity",
+      "description": "Un retiro espiritual en un jardín donde las personas encuentran paz y claridad mental a través de la jardinería consciente.",
+      "category": "documentary",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://m.media-amazon.com/images/I/51cBcwYsOVL._SX425_.jpg",
+      "creator": "Zen Gardens Studios"
+    },
+    {
+      "contentId": "135",
+      "creatorId": "35",
+      "type": "movie",
+      "title": "Rising Above",
+      "description": "La historia de una persona que, a través del yoga y la meditación, encuentra la fortaleza interior para superar la adversidad.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "resiliente",
+      "image": "https://m.media-amazon.com/images/I/81Remqx33HL._AC_UF1000,1000_QL80_.jpg",
+      "creator": "Inner Strength Films"
+    }
+  ],
+  "content-recent": [
+    {
+      "contentId": "201",
+      "creatorId": "1",
+      "type": "movie",
+      "title": "The Pursuit of Happiness",
+      "description": "Un inspirador relato de lucha y superación basado en la historia real de un hombre que no se rinde.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "esperanzado",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg",
+      "creator": "Columbia Pictures"
+    },
+    {
+      "contentId": "202",
+      "creatorId": "2",
+      "type": "movie",
+      "title": "Good Will Hunting",
+      "description": "Un genio no reconocido que lucha con su pasado y encuentra su verdadero propósito en la vida.",
+      "category": "drama",
+      "objective": "aprender",
+      "feeling": "reflexivo",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+      "creator": "Miramax Films"
+    },
+    {
+      "contentId": "203",
+      "creatorId": "3",
+      "type": "movie",
+      "title": "Inside Out",
+      "description": "Una animación que explora las emociones de una niña y cómo gestionarlas para lograr bienestar emocional.",
+      "category": "comedia",
+      "objective": "relajarme",
+      "feeling": "alegre",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+      "creator": "Pixar Animation Studios"
+    },
+    {
+      "contentId": "204",
+      "creatorId": "4",
+      "type": "movie",
+      "title": "The Intouchables",
+      "description": "Una conmovedora historia de amistad entre un hombre tetrapléjico y su cuidador.",
+      "category": "comedia",
+      "objective": "inspirarme",
+      "feeling": "esperanzado",
+      "image": "https://m.media-amazon.com/images/M/MV5BODY0MDM1MDE2OV5BMl5BanBnXkFtZTcwMzEyMjkyNw@@._V1_.jpg",
+      "creator": "Gaumont Film Company"
+    },
+    {
+      "contentId": "121",
+      "creatorId": "21",
+      "type": "movie",
+      "title": "Inner Peace",
+      "description": "Un maestro de meditación guía a un grupo de personas en la búsqueda de la serenidad interior, enfrentando sus propios miedos y ansiedades.",
+      "category": "drama",
+      "objective": "relajarme",
+      "feeling": "estresado",
+      "image": "https://cdns-images.dzcdn.net/images/cover/3ee346bd5937fb542af1a6564334f47d/1900x1900-000000-80-0-0.jpg",
+      "creator": "Zen Studios"
+    },
+    {
+      "contentId": "122",
+      "creatorId": "22",
+      "type": "movie",
+      "title": "Harmony Within",
+      "description": "Una película que explora cómo el equilibrio entre cuerpo y mente puede ayudar a superar las dificultades de la vida diaria.",
+      "category": "drama",
+      "objective": "inspirarme",
+      "feeling": "motivado",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDM5MmIzYmUtYmRhZC00M2I3LWJlOGItMjU2M2EyYzI2NzIzXkEyXkFqcGc@._V1_.jpg",
+      "creator": "Mindful Productions"
+    },
+    {
+      "contentId": "123",
+      "creatorId": "23",
+      "type": "movie",
+      "title": "The Journey to Calm",
+      "description": "Un hombre emprende un viaje por la naturaleza en busca de paz interior y conexión consigo mismo.",
+      "category": "aventura",
+      "objective": "desconectar",
+      "feeling": "cansado",
+      "image": "https://images.justwatch.com/poster/9641786/s718/el-viaje-de-jane.jpg",
+      "creator": "Serenity Films"
+    }
+  ],
+  "forums": [
+    {
+      "postId": "263",
+      "userId": "1",
+      "contentId": "45",
+      "title": "Rising Above",
+      "commentBy": "Raúl Ronaldo",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut. Aenean dapibus sit.",
+      "image": "https://m.media-amazon.com/images/I/81Remqx33HL._AC_UF1000,1000_QL80_.jpg",
+      "score": "5"
+    },
+    {
+      "postId": "852",
+      "userId": "1",
+      "contentId": "45",
+      "title": "The Garden of Serenity",
+      "commentBy": "Julio Sandoval",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ullamcorper nisl augue, vitae tincidunt sapien venenatis ut.",
+      "image": "https://m.media-amazon.com/images/I/51cBcwYsOVL._SX425_.jpg",
+      "score": "3"
+    },
+    {
+      "postId": "934",
+      "userId": "2",
+      "contentId": "46",
+      "title": "The Impossible",
+      "commentBy": "Laura Castañeda",
+      "comment": "Vivamus facilisis elit ac dui vehicula, non egestas ligula placerat. Nulla facilisi.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_.jpg",
+      "score": "4"
+    },
+    {
+      "postId": "978",
+      "userId": "3",
+      "contentId": "47",
+      "title": "The Sunshine Mind",
+      "commentBy": "María Gómez",
+      "comment": "Fusce eu urna vulputate, tincidunt magna et, fermentum libero. Maecenas a nisi id lorem consequat aliquam a nec ligula.",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661865304l/60693290.jpg",
+      "score": "4"
+    }
+  ],
     "events": [
       {
         "eventId": "1",
